@@ -65,7 +65,9 @@ The neural network consists of:
 - Input layer
 - Three hidden layers with activation functions
 - Output layer with softmax activation to predict probabilities for each of the 10 classes.
+
 Here's a breakdown:
+
 - Input Layer: Flattened image data (size 784) - (Implicit)
 - Hidden Layer 1: fc1 with 128 neurons
 - Hidden Layer 2: fc2 with 90 neurons
